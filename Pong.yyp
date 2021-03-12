@@ -2,6 +2,8 @@
   "resources": [
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":0,},
     {"id":{"name":"sprBall","path":"sprites/sprBall/sprBall.yy",},"order":1,},
+    {"id":{"name":"font","path":"fonts/font/font.yy",},"order":0,},
+    {"id":{"name":"objScore","path":"objects/objScore/objScore.yy",},"order":3,},
     {"id":{"name":"sprPaddle","path":"sprites/sprPaddle/sprPaddle.yy",},"order":0,},
     {"id":{"name":"objBall","path":"objects/objBall/objBall.yy",},"order":2,},
     {"id":{"name":"objEnemy","path":"objects/objEnemy/objEnemy.yy",},"order":1,},

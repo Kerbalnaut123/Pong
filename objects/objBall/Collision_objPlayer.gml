@@ -6,3 +6,5 @@ if x > 50{
 
 	direction = ratio;
 }
+
+speed *= 1.05;
